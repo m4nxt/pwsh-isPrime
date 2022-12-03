@@ -11,4 +11,3 @@ function isPrime ($n) {
 
 [int]$userIn = Read-Host
 isPrime $userIn
-
